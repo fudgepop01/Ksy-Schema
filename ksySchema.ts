@@ -294,7 +294,7 @@ export const ksySchema =
       "properties": {
         "meta": { "$ref": "#/definitions/MetaSpec" },
         "params": { "$ref": "#/definitions/ParamsSpec" },
-        "seq": { "$ref": "#/definitions/AttrsSpec" },
+        "seq": { "$ref": "#/definitions/Attributes" },
         "types": { "$ref": "#/definitions/TypesSpec" },
         "enums": { "$ref": "#/definitions/EnumsSpec" },
         "instances": { "$ref": "#/definitions/InstancesSpec" },
